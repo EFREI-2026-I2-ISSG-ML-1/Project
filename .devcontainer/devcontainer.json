@@ -28,7 +28,9 @@
 			"extensions": [
 				"ms-python.python",
 				"ms-toolsai.jupyter",
-				"ms-toolsai.datawrangler"
+				"ms-toolsai.datawrangler",
+				"charliermarsh.ruff",
+				"astral-sh.ty"
 			]
 		}
 	}
