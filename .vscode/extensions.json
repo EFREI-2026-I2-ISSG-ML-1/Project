@@ -1,5 +1,7 @@
 {
 	"recommendations": [
-		"ms-toolsai.datawrangler"
+		"ms-toolsai.datawrangler",
+		"ms-toolsai.jupyter",
+		"ms-python.python"
 	]
 }
